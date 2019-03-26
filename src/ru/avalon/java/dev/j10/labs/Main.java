@@ -13,6 +13,7 @@ public class Main {
          * по порядку.
          */
 	    String[] strings = null;
+            
 
 	    /*
 	     * TODO(Студент): Проинициализируйте массив persons
